@@ -203,11 +203,3 @@ Ini adalah fondasi sebelum masuk ke:
 * Program Studi: Teknologi Informasi
 * Universitas: UIN Antasari
 * Tahun: 2026
-
----
-
-* 🔥 Versi README dengan diagram arsitektur (ASCII atau PNG)
-* 🔥 Tambahan contoh koneksi Spark → MongoDB
-* 🔥 Versi yang lebih advance seperti portfolio Data Engineer
-
-Kamu mau dibuatkan sekalian diagram arsitekturnya biar makin keren?
